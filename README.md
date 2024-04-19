@@ -23,5 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rvn14&theme=whatsapp-dark" alt="rvn14"/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvn14&theme=gotham" border="none" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvn14&theme=gotham" border=0px /></p>
 
