@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dasun Adithya</h1>
 <h3 align="center">A Designer and a Developer...😊</h3>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 - 🌱 I’m currently learning **REACT JS, NODE JS**
 
