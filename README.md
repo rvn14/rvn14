@@ -1,7 +1,7 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Dasun+Adithya)](https://git.io/typing-svg)</h1>
+<h1 align="center">Hi 👋, I'm Dasun Adithya</h1>
 <h3 align="center">A Designer and a Developer...😊</h3>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Dasun+Adithya)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning **REACT JS, NODE JS**
