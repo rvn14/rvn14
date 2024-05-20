@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/windows.svg" alt="Windows"></a> &nbsp;&nbsp;
+<code><a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/windows.svg" alt="Windows"></a></code> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android.svg" alt="Android"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/firefox.svg" alt="Firefox"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/git.svg" alt="Git"></a> &nbsp;&nbsp;
