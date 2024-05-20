@@ -50,9 +50,11 @@
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android_studio.svg" alt="Android Studio"></a>
 </p>
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rvn14&theme=gotham" alt="rvn14"/></p>
+<br><br>
 
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rvn14&theme=gotham" alt="rvn14"/></p>
 
+<br><br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvn14&theme=gotham&hide_border=true" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvn14&theme=gotham&hide_border=true" /></p>
 
