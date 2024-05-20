@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 
-<code><a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/windows.svg" alt="Windows"></a></code> &nbsp;&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/windows.svg" alt="Windows"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/android.svg" alt="Android"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/firefox.svg" alt="Firefox"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/git.svg" alt="Git"></a> &nbsp;&nbsp;
@@ -56,9 +56,9 @@
 
 <br><br>
 
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rvn14&theme=gotham" alt="rvn14"/></p>
+<code><p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rvn14&theme=gotham" alt="rvn14"/></p></code>
 
 <br><br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvn14&theme=gotham&hide_border=true" /></p>
+<code><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvn14&theme=gotham&hide_border=true" /></p></code>
 
