@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **REACT JS, NODE JS**
 
-- 👨‍💻 All of my projects are available at [https://rvn14.github.io/portfolio/](https://rvn14.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://rvn14.vercel.app](https://rvn14.vercel.app)
 
 - 📫 How to reach me **dasunadithya123@gmail.com**
 
