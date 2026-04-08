@@ -1,0 +1,44 @@
+# .github/workflows/readme-cards.yml
+name: Generate README Cards
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate pin card - rvn14.github.io
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: pin
+          options: 'username=rvn14&repo=rvn14.github.io&theme=tokyonight&hide_border=true'
+          path: profile/pin-rvn14-github-io.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - pizzario
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: pin
+          options: 'username=rvn14&repo=pizzario&theme=tokyonight&hide_border=true'
+          path: profile/pin-pizzario.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
