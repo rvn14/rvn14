@@ -53,19 +53,6 @@
 
 ---
 
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/rvn14/rvn14.github.io">
-    <img src="./profile/pin-rvn14-github-io.svg" alt="rvn14.github.io" />
-  </a>
-  <a href="https://github.com/rvn14/pizzario">
-    <img src="./profile/pin-pizzario.svg" alt="pizzario" />
-  </a>
-</p>
-
----
-
 ## Profile Summary
 
 <p align="center">
