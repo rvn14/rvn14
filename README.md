@@ -34,8 +34,8 @@
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,c,cpp,mysql,postgres,git,github,vscode,figma,androidstudio" />
+<p align="center" width="full">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,java,spring,graphql,go,dotnet,cs,c,cpp,mongodb,mysql,postgres,git,github,vscode,figma,androidstudio,aws,azure,docker,kubernete" width="full"/>
 </p>
 
 ---
